@@ -1,0 +1,9 @@
+information:
+  display: Yes
+  header: "Announcement:"
+  content: "The shop is now closed. How sad."
+  
+website:
+  display: Yes
+  label: "More information"
+  url: "https://oscwii.org/"
