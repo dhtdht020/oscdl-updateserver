@@ -1,3 +1,5 @@
+version: 2 # Incompatible versions will not receive announcement!
+
 information:
   display: Yes
   header: "Announcement:"
@@ -5,5 +7,7 @@ information:
   
 website:
   display: Yes
-  label: "View the YAML that makes it!"
   url: "https://github.com/dhtdht020/oscdl-updateserver/blob/master/v1/announcement/alert.yml"
+  label: 
+    text: "View the YAML that makes it!"
+    color: "#ffff00"
