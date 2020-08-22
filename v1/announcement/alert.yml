@@ -6,4 +6,4 @@ information:
 website:
   display: Yes
   label: "View the YAML that makes it!"
-  url: "https://github.com/dhtdht020/oscdl-updateserver/edit/master/v1/announcement/alert.yml"
+  url: "https://github.com/dhtdht020/oscdl-updateserver/blob/master/v1/announcement/alert.yml"
