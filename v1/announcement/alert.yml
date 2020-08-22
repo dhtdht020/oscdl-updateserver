@@ -9,7 +9,7 @@ information:
     text_color: "rgb(255, 255, 255)"
   
 website:
-  display: No
+  display: Yes
   url: "https://github.com/dhtdht020/oscdl-updateserver/blob/master/v1/announcement/alert.yml"
   label: 
     text: "View the YAML that makes this banner!"
