@@ -1,9 +1,9 @@
 information:
   display: Yes
   header: "Announcement:"
-  content: "The shop is now closed. How sad."
+  content: "Thanks for the gold kind stranger!"
   
 website:
   display: Yes
-  label: "More information"
-  url: "https://oscwii.org/"
+  label: "REDDIT GOLD"
+  url: "https://reddit.com/r/wholesome"
