@@ -5,5 +5,5 @@ information:
   
 website:
   display: Yes
-  label: "View more on GitHub"
-  url: "https://github.com/dhtdht020/osc-dl"
+  label: "View the YAML that makes it!"
+  url: "https://github.com/dhtdht020/oscdl-updateserver/edit/master/v1/announcement/alert.yml"
