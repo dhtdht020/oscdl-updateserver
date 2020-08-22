@@ -1,9 +1,9 @@
 information:
   display: Yes
   header: "Announcement:"
-  content: "Thanks for the gold kind stranger!"
+  content: "I'm testing announcements! So you will see me for the time being."
   
 website:
   display: Yes
-  label: "BIG CHUNGUS"
-  url: "https://reddit.com/r/bigkeeanuchungus"
+  label: "GitHub"
+  url: "https://github.com/dhtdht020/osc-dl"
