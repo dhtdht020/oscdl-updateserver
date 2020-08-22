@@ -2,15 +2,15 @@ version: 2 # Incompatible versions will not receive announcement!
 
 information:
   display: Yes
-  header: "Announcement:"
-  content: "I'm testing announcements! So you will see me for the time being."
+  header: "Information:"
+  content: "Icons are currently very slow, and are experimental!"
   banner:
-    color: "rgb(255, 85, 0)"
+    color: "#007bff"
     text_color: "rgb(255, 255, 255)"
   
 website:
   display: Yes
   url: "https://github.com/dhtdht020/oscdl-updateserver/blob/master/v1/announcement/alert.yml"
   label: 
-    text: "View the YAML that makes it!"
+    text: "View the YAML that makes this banner!"
     color: "#ffff00"
