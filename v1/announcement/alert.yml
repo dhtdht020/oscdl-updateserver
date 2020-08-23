@@ -13,4 +13,4 @@ website:
   url: "https://github.com/dhtdht020/oscdl-updateserver/blob/master/v1/announcement/alert.yml"
   label: 
     text: "View the YAML that makes this banner!"
-    color: "blue" # Default: "#ffff00"
+    color: "white" # Default: "#ffff00"
