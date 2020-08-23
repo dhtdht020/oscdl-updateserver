@@ -1,0 +1,14 @@
+# Custom repository list
+
+repositories:
+  primary:
+    host: "hbb1.oscwii.org"
+    name: "Open Shop Channel"
+
+  themes:
+    host: "hbb3.oscwii.org"
+    name: "Homebrew Channel Themes"
+
+  codemii:
+    host: "hbb2.oscwii.org"
+    name: "Codemii Apps"
