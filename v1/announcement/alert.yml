@@ -2,10 +2,10 @@ version: 2 # Incompatible versions will not receive announcement!
 
 information:
   display: Yes
-  header: "Information:"
-  content: "Icons are currently very slow, and are experimental!"
+  header: "Service Incident:"
+  content: "The server is currently experiencing issues. Oh no."
   banner:
-    color: "#007bff" # Default: rgb(255, 85, 0)
+    color: "#CB2431" # Default: rgb(255, 85, 0)
     text_color: "rgb(255, 255, 255)" # Default: rgb(255, 255, 255)
   
 website:
