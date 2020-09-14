@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "Information:"
   content: "Icons are currently very slow, and are experimental!"
   banner:
