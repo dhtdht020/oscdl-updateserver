@@ -1,5 +1,10 @@
 # Custom repository list
 
+repos:
+  - "primary"
+  - "themes"
+  - "codemii"
+
 repositories:
   primary:
     host: "hbb1.oscwii.org"
