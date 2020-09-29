@@ -3,7 +3,6 @@
 repos:
   - "primary"
   - "themes"
-  - "codemii"
 
 repositories:
   primary:
@@ -15,8 +14,3 @@ repositories:
     host: "hbb3.oscwii.org"
     name: "Homebrew Channel Themes"
     description: "The official Open Shop Channel Homebrew Channel Themes repository."
-
-  codemii:
-    host: "hbb2.oscwii.org"
-    name: "CodeMii"
-    description: "CodeMii Apps"
