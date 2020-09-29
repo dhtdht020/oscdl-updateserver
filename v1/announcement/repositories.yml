@@ -3,6 +3,7 @@
 repos:
   - "primary"
   - "themes"
+  - "libertyland"
 
 repositories:
   primary:
@@ -14,3 +15,8 @@ repositories:
     host: "hbb3.oscwii.org"
     name: "Homebrew Channel Themes"
     description: "The official Open Shop Channel Homebrew Channel Themes repository."
+
+  libertyland:
+    host: "hbb1.oscwii.org"
+    name: "Join LibertyLand"
+    description: "at libertyland.xyz"
