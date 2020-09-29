@@ -9,11 +9,14 @@ repositories:
   primary:
     host: "hbb1.oscwii.org"
     name: "Open Shop Channel"
+    description: "The official Open Shop Channel Homebrew Apps repository."
 
   themes:
     host: "hbb3.oscwii.org"
     name: "Homebrew Channel Themes"
+    description: "The official Open Shop Channel Homebrew Channel Themes repository."
 
   codemii:
     host: "hbb2.oscwii.org"
-    name: "Codemii Apps"
+    name: "CodeMii"
+    description: "CodeMii Apps"
