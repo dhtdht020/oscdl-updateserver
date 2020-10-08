@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "News:"
   content: "Open Shop Channel now has a public API!"
   banner:
