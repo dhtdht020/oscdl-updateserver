@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "Announcement:"
   content: "Already on 1.2.9? Great. Still on 1.2.8? Update right now to version 1.2.9!"
   banner:
