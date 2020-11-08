@@ -3,7 +3,7 @@ version: 2 # Incompatible versions will not receive announcement!
 information:
   display: Yes
   header: "Announcement:"
-  content: "In preperation for the next release, we made a short survey."
+  content: "In preparation for the next release, we made a short survey."
   banner:
     color: "#007bff" # Default: rgb(255, 85, 0)
     text_color: "rgb(255, 255, 255)" # Default: rgb(255, 255, 255)
