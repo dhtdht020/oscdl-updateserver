@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "Announcement:"
   content: "In preparation for the next release, we made a short survey."
   banner:
