@@ -2,15 +2,15 @@ version: 2 # Incompatible versions will not receive announcement!
 
 information:
   display: No
-  header: "Announcement:"
-  content: "In preparation for the next release, we made a short survey."
+  header: "Message:"
+  content: "The Open Shop Channel is looking for funding to buy a better server."
   banner:
-    color: "#007bff" # Default: rgb(255, 85, 0)
-    text_color: "rgb(255, 255, 255)" # Default: rgb(255, 255, 255)
+    color: "#ffffff" # Default: rgb(255, 85, 0)
+    text_color: "rgb(0, 168, 252)" # Default: rgb(255, 255, 255)
   
 website:
   display: Yes
-  url: "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FqDldJfN4EmUydRiJ3VzYIX3AJdIbnJCny-a3AsZtn9UQlQzNU5QTTQwVkNFODVJNUlCNVNXRUtKQi4u"
+  url: "https://patreon.com/openshopchannel"
   label: 
-    text: "Help us build the next version!"
+    text: "Help us get it!"
     color: "white" # Default: "#ffff00"
