@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: No
+  display: Yes
   header: "Message:"
   content: "The Open Shop Channel is looking for funding to buy a better server."
   banner:
