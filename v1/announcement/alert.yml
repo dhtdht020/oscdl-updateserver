@@ -5,8 +5,8 @@ information:
   header: "Message:"
   content: "The Open Shop Channel is looking for funding to buy a better server."
   banner:
-    color: "#ffffff" # Default: rgb(255, 85, 0)
-    text_color: "rgb(0, 168, 252)" # Default: rgb(255, 255, 255)
+    color: "rgb(0, 168, 252)" # Default: rgb(255, 85, 0)
+    text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
   display: Yes
