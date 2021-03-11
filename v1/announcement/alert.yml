@@ -2,15 +2,15 @@ version: 2 # Incompatible versions will not receive announcement!
 
 information:
   display: Yes
-  header: "Message:"
-  content: "The Open Shop Channel is looking for funding to buy a better server."
+  header: "Announcement:"
+  content: "The Open Shop Channel is working on an update to the Homebrew Browser."
   banner:
-    color: "rgb(0, 168, 252)" # Default: rgb(255, 85, 0)
+    color: "rgb(255, 69, 0)" # Default: rgb(255, 85, 0)
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
   display: Yes
-  url: "https://patreon.com/openshopchannel"
+  url: "https://www.reddit.com/r/WiiHacks/comments/m1dif7/osc_homebrew_browser_update_is_in_the_works/"
   label: 
-    text: "Help us get it!"
+    text: "Learn more!"
     color: "white" # Default: "#ffff00"
