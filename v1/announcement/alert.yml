@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "Announcement:"
   content: "The Open Shop Channel is working on an update to the Homebrew Browser."
   banner:
@@ -9,7 +9,7 @@ information:
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
-  display: Yes
+  display: No
   url: "https://www.reddit.com/r/WiiHacks/comments/m1dif7/osc_homebrew_browser_update_is_in_the_works/"
   label: 
     text: "Learn more!"
