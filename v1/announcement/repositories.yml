@@ -3,7 +3,6 @@
 repos:
   - "primary"
   - "themes"
-  - "testing"
 
 repositories:
   primary:
@@ -15,8 +14,3 @@ repositories:
     host: "hbb3.oscwii.org"
     name: "Homebrew Channel Themes"
     description: "The official Open Shop Channel Homebrew Channel Themes repository."
-
-  testing:
-    host: "testhbb1.oscwii.org"
-    name: "(Beware!) Temp Test Repo"
-    description: "We are testing some things. Please switch to the apps or the themes repos."
