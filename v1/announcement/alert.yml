@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "HAPPY PRIDE MONTH!"
   content: "The Open Shop Channel team wishes everyone an happy pride month!"
   banner:
