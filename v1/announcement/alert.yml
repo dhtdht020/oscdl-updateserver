@@ -1,16 +1,16 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: No
-  header: "HAPPY PRIDE MONTH!"
-  content: "The Open Shop Channel team wishes everyone an happy pride month!"
+  display: Yes
+  header: "People experiencing problems with Send to Wii:"
+  content: "Updating to 1.2.11.1 will solve this issue."
   banner:
-    color: "qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 0, 0, 255), stop:0.166 rgba(255, 255, 0, 255), stop:0.333 rgba(0, 255, 0, 255), stop:0.5 rgba(0, 255, 255, 255), stop:0.666 rgba(0, 0, 255, 255), stop:0.833 rgba(255, 0, 255, 255), stop:1 rgba(255, 0, 0, 255))" # Default: rgb(255, 85, 0)
+    color: "red" # Default: rgb(255, 85, 0)
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
-  display: No
-  url: "https://www.reddit.com/r/WiiHacks/comments/m1dif7/osc_homebrew_browser_update_is_in_the_works/"
+  display: Yes
+  url: "https://github.com/dhtdht020/osc-dl/releases/tag/1.2.11"
   label: 
-    text: "Learn more!"
+    text: "Update Now!"
     color: "white" # Default: "#ffff00"
