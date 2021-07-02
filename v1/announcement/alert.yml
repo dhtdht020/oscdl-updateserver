@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "People experiencing problems with Send to Wii:"
   content: "Updating to 1.2.11.1 will solve this issue."
   banner:
@@ -9,7 +9,7 @@ information:
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
-  display: Yes
+  display: No
   url: "https://github.com/dhtdht020/osc-dl/releases/tag/1.2.11.1"
   label: 
     text: "Update Now!"
