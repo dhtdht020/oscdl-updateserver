@@ -1,0 +1,16 @@
+version: 2 # Incompatible versions will not receive announcement!
+
+information:
+  display: Yes
+  header: "Hello:"
+  content: "This is a test"
+  banner:
+    color: "red" # Default: rgb(255, 85, 0)
+    text_color: "white" # Default: rgb(255, 255, 255)
+  
+website:
+  display: Yes
+  url: "https://oscwii.org"
+  label: 
+    text: "Website!"
+    color: "white" # Default: "#ffff00"
