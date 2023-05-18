@@ -3,7 +3,7 @@
 repos:
   - "primary"
   - "themes"
-  - "experimental"
+  - "zexperimental"
 
 repositories:
   primary:
@@ -16,7 +16,7 @@ repositories:
     name: "Homebrew Channel Themes"
     description: "The official Open Shop Channel Homebrew Channel Themes repository."
 
-  experimental:
+  zexperimental:
     host: "hbb4.oscwii.org"
     name: "Test Repository (EXPERIMENTAL)"
     description: "RepositoryManager testing"
