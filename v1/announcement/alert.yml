@@ -1,16 +1,16 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: No
-  header: "This is a test!"
-  content: "Hello, have a good day."
+  display: Yes
+  header: "Hello!"
+  content: "We have started the difficult process of migrating all apps to a new system."
   banner:
-    color: "red" # Default: rgb(255, 85, 0)
+    color: "blue" # Default: rgb(255, 85, 0)
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
   display: Yes
-  url: "https://oscwii.org"
+  url: "https://github.com/OpenShopChannel/Apps"
   label: 
-    text: "Visit the lovely website!"
+    text: "Help us out!"
     color: "white" # Default: "#ffff00"
