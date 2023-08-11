@@ -1,7 +1,7 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: Yes
+  display: No
   header: "Hello!"
   content: "We have started the difficult process of migrating all apps to a new system."
   banner:
@@ -9,7 +9,7 @@ information:
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
-  display: Yes
+  display: No
   url: "https://github.com/OpenShopChannel/Apps"
   label: 
     text: "Help us out!"
