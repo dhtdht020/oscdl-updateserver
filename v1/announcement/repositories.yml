@@ -2,15 +2,9 @@
 
 repos:
   - "primary"
-  - "themes"
 
 repositories:
   primary:
     host: "hbb1.oscwii.org"
     name: "Open Shop Channel"
     description: "The official Open Shop Channel Homebrew Apps repository."
-
-  themes:
-    host: "hbb3.oscwii.org"
-    name: "Homebrew Channel Themes"
-    description: "The official Open Shop Channel Homebrew Channel Themes repository."
