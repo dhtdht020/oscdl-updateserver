@@ -10,7 +10,7 @@ information:
   
 website:
   display: Yes
-  url: "hhttps://github.com/dhtdht020/osc-dl/releases/tag/1.4.0"
+  url: "https://github.com/dhtdht020/osc-dl/releases/tag/1.4.0"
   label: 
     text: "Update"
     color: "white" # Default: "#ffff00"
