@@ -1,16 +1,16 @@
 version: 2 # Incompatible versions will not receive announcement!
 
 information:
-  display: No
-  header: "Hello!"
-  content: "We have started the difficult process of migrating all apps to a new system."
+  display: Yes
+  header: "Attention!"
+  content: "You are using an obsolete version of OSCDL. It might stop working in the future."
   banner:
-    color: "blue" # Default: rgb(255, 85, 0)
+    color: "red" # Default: rgb(255, 85, 0)
     text_color: "white" # Default: rgb(255, 255, 255)
   
 website:
-  display: No
-  url: "https://github.com/OpenShopChannel/Apps"
+  display: Yes
+  url: "hhttps://github.com/dhtdht020/osc-dl/releases/tag/1.4.0"
   label: 
-    text: "Help us out!"
+    text: "Update"
     color: "white" # Default: "#ffff00"
